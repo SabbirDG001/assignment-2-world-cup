@@ -182,7 +182,7 @@ footer h1{
         border: 2px solid black;
 
     }
-    .blog img{
+    .flag{
         width: 100%;
     }
     /* footer part  */
@@ -234,6 +234,7 @@ footer h1{
         grid-template-columns: repeat(2, 1fr);
         column-gap: 30px;
     }
+
     .viewAll-button{
         visibility: visible;
     }
